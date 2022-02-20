@@ -30,7 +30,7 @@ describe('Question03 test', () => {
         test('Should return 0 pairs of anagrams to string "a".', () => {
             const str = 'a'
             const result = checkChunks(str)
-            expect(result).toEqual(1)
+            expect(result).toEqual(0)
         })
     })
 })
