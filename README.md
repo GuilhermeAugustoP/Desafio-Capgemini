@@ -4,11 +4,11 @@
 <p align="center"><strong>
 <a href="#Sobre">Sobre</a>
 <a href="#Ferramentas">Ferramentas</a>
-<a href="#Instalação das dependências">Instalação</a>
-<a href="#Rodando os testes">Testes</a>
-<a href="#Questão 01">Questão.01</a>
-<a href="#Questão 02">Questão.02</a>
-<a href="#Questão 03">Questão.03</a>
+<a href="#Instalação-das-dependências">Instalação</a>
+<a href="#Rodando-os-testes">Testes</a>
+<a href="#Questão-01">Questão.01</a>
+<a href="#Questão-02">Questão.02</a>
+<a href="#Questão-03">Questão.03</a>
 </strong></p>
 
 # Sobre
