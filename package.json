@@ -1,0 +1,15 @@
+{
+  "name": "capgemini",
+  "version": "1.0.0",
+  "main": "Question01.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Guilherme Augusto",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^27.5.1"
+  },
+  "devDependencies": {},
+  "description": "Desafio de programação - Academia Capgemini"
+}
